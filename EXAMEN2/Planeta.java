@@ -1,3 +1,4 @@
+package EXAMEN2;
 public class Planeta{
     String nombre;
     int cantidadSatelite;
@@ -37,5 +38,4 @@ public static void main(String[] args){
     System.out.println("Datos planeta 2");
     planet2.imprimirDatos();
  }
-
 }
